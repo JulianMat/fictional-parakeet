@@ -6,5 +6,6 @@ osiem
 dziewięc
 dziesięć
 jedenaście
+dwanaście
 trzynaście
 
