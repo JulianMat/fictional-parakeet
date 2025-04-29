@@ -3,5 +3,6 @@ cztery pięć
 sześć
 siedem
 osiem
+dziewięc
 dziesięć
 jedenaście
