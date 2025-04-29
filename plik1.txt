@@ -4,3 +4,4 @@ sześć
 siedem
 osiem
 dziesięć
+jedenaście
